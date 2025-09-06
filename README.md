@@ -29,8 +29,15 @@
 ---
 
 ### 📫 Entre em contato
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/samuel-ferreira-alves-30b723203/))  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samukabolado52@gmail.com)
+
+<div>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-ferreira-alves" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ---
 
