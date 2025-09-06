@@ -1,12 +1,13 @@
-# 👋 Olá, eu sou Samuel Alves  
+# 👨🏻‍💻 Samuel Ferreira Alves  
 
-💻 Estudante de Ciência da Computação  
-🚀 Apaixonado por tecnologia, ciência de dados,cibersecuity e aprendizado contínuo  
+# 🧑 Sobre mim
+💻 Estudante de Ciência da Computação (UNIPÊ)  
+🚀 Apaixonado por tecnologia, ciência de dados,cibersecurity e aprendizado contínuo  
 📚 Atualmente em especialização mais aprofundada em  **Banco de dados** e prárticas em:
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Samuel-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
