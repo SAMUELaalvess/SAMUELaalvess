@@ -1,31 +1,6 @@
 # 👨🏻‍💻 Samuel Ferreira Alves
 
-<div style="font-size: 24px; font-weight: bold;">
-  Eu sou <span id="animated-text"></span>
-</div>
-
-<script>
-const texts = ["Estudante de Ciência da Computação", "Apaixonado por CIBERSECURITY", "Futuro Dev de Banco de Dados"];
-let count = 0;
-let index = 0;
-let currentText = "";
-let letter = "";
-
-(function type() {
-    if (count === texts.length) count = 0;
-    currentText = texts[count];
-    letter = currentText.slice(0, ++index);
-
-    document.getElementById("animated-text").textContent = letter;
-    if (letter.length === currentText.length) {
-        count++;
-        index = 0;
-        setTimeout(type, 2000); // espera 2s antes de mudar
-    } else {
-        setTimeout(type, 150); // velocidade da digitação
-    }
-})();
-</script>
+Eu sou ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&width=435&lines=estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;apaixonado+por+programa%C3%A7%C3%A3o;futuro+engenheiro+naval)
 
 # 🧑 Sobre mim
 💻 Estudante de Ciência da Computação (UNIPÊ)  
