@@ -1,4 +1,31 @@
-# 👨🏻‍💻 Samuel Ferreira Alves  
+# 👨🏻‍💻 Samuel Ferreira Alves
+
+<div style="font-size: 24px; font-weight: bold;">
+  Eu sou <span id="animated-text"></span>
+</div>
+
+<script>
+const texts = ["Estudante de Ciência da Computação", "Apaixonado por CIBERSECURITY", "Futuro Dev de Banco de Dados"];
+let count = 0;
+let index = 0;
+let currentText = "";
+let letter = "";
+
+(function type() {
+    if (count === texts.length) count = 0;
+    currentText = texts[count];
+    letter = currentText.slice(0, ++index);
+
+    document.getElementById("animated-text").textContent = letter;
+    if (letter.length === currentText.length) {
+        count++;
+        index = 0;
+        setTimeout(type, 2000); // espera 2s antes de mudar
+    } else {
+        setTimeout(type, 150); // velocidade da digitação
+    }
+})();
+</script>
 
 # 🧑 Sobre mim
 💻 Estudante de Ciência da Computação (UNIPÊ)  
