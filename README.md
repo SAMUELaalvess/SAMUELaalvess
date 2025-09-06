@@ -5,40 +5,32 @@
 ---
 
 ## 🧑 Sobre mim
-💻 Estudante de Ciência da Computação (UNIPÊ)  
-🚀 Apaixonado por tecnologia, ciência de dados, cibersecurity e aprendizado contínuo  
-📚 Atualmente me aprofundando em **Banco de Dados** e práticas em desenvolvimento seguro  
+💻 Estudante de Ciência da Computação (UNIPÊ)    
+⚡ Apaixonado por tecnologia e desafios
+🛡️ Focado em Cibersecurity
+💾 Futuro Dev de Banco de Dados
+📚 Atualmente me aprofundando em **Banco de Dados** e práticas em desenvolvimento seguro
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 <div>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="C" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JS" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg" alt="PHP" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" height="50" width="50"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/python-coding-python-3oEduSbSGpGaRX2LXa" alt="Python" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/java-programming-3o6Zt8z9Zp9Uq0s3uI" alt="Java" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/javascript-programming-3o6Zt7z3XbZ9a9z9z9" alt="JavaScript" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/php-programming-3o6Zt7z3XbZ9a9z9z9" alt="PHP" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/mysql-database-3o6Zt7z3XbZ9a9z9z9" alt="MySQL" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/html5-css3-3o6Zt7z3XbZ9a9z9z9" alt="HTML5 & CSS3" height="50" width="50"/>
+  <img src="https://giphy.com/gifs/git-vscode-3o6Zt7z3XbZ9a9z9z9" alt="Git & VSCode" height="50" width="50"/>
 </div>
 
----
 
-## 🚀 Projetos em Destaque
-- [![Portfólio Pessoal](https://img.shields.io/badge/Portfólio-Pessoal-blue?style=for-the-badge&logo=github)](https://github.com/SAMUELaalvess/portfolio) – Site pessoal com HTML, CSS e JS.  
-- [![Login Seguro](https://img.shields.io/badge/Login-Seguro-red?style=for-the-badge&logo=github)](https://github.com/SAMUELaalvess/login-securo) – Projeto de cibersecurity com autenticação JWT.  
-- [![Banco de Dados](https://img.shields.io/badge/Banco-de_Dados-green?style=for-the-badge&logo=github)](https://github.com/SAMUELaalvess/banco-dados) – CRUD e consultas SQL.  
-
----
 
 ## 🎯 Em Aprendizado
 <div>
-  <img src="https://c.tenor.com/qVQAvuVzF0AAAAAC/hacker-hacking.gif" alt="Cibersecurity" height="60"/>
-  <img src="https://c.tenor.com/EyIKkI6d6ZcAAAAC/docker-docker.gif" alt="DevOps" height="60"/>
-  <img src="https://c.tenor.com/kbB3BLXl0mIAAAAC/ai-robot.gif" alt="AI" height="60"/>
+  <img src="https://giphy.com/gifs/cibersecurity-hacking-3o6Zt7z3XbZ9a9z9z9" alt="Cibersecurity" height="60"/>
+  <img src="https://giphy.com/gifs/devops-automation-3o6Zt7z3XbZ9a9z9z9" alt="DevOps" height="60"/>
+  <img src="https://giphy.com/gifs/ai-machine-learning-3o6Zt7z3XbZ9a9z9z9" alt="AI & ML" height="60"/>
 </div>
 
 - Aprimorando cibersecurity e práticas de pentest  
@@ -60,3 +52,5 @@
 ---
 
 ⭐ Se gostou do meu perfil, não esquece de dar uma olhada nos meus repositórios e deixar uma estrela nos projetos 😉
+
+
