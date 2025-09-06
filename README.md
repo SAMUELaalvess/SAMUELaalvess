@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Samuel Ferreira Alves
 
-Eu sou ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&width=435&lines=estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;apaixonado+por+programa%C3%A7%C3%A3o;futuro+engenheiro+naval)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+em+Cibersecurity;Futuro+Dev+de+Banco+de+Dados)
 
 # 🧑 Sobre mim
 💻 Estudante de Ciência da Computação (UNIPÊ)  
