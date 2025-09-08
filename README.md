@@ -15,7 +15,7 @@
 🛡️ Focado em Cibersecurity
 
 
-💾 Futuro Dev de Banco de Dados
+💾 Futuro   Dev   de Banco de Dados
 
 
 📚 Atualmente me aprofundando em **Banco de Dados** e práticas em desenvolvimento seguro
